@@ -1,0 +1,11 @@
+{
+  "domain": "synology_srm_router",
+  "name": "Synology SRM integration",
+  "version": "1.0.0",
+  "documentation": "",
+  "dependencies": [],
+  "codeowners": [],
+  "issue_tracker": "",
+  "requirements": [],
+  "config_flow": false
+}
